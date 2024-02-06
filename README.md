@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Wajeeha Usman</h1>
 <h3 align="center">A future Software Engineer from Pakistan with professional experience in Front End Web Development + Designing and Graphic Designing.</h3>
 
-<img aligh="right" alt="coding" width="400" src="[JG&ust=1707291258843000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJjipdiZloQDFQAAAAAdAAAAABAJ](https://www.google.com/url?sa=i&url=https%3A%2F%2Flottiefiles.com%2Fanimations%2Fgirl-on-computer-with-idea-vKx1wtZe5l&psig=AOvVaw0nmmjbFrG7cPxs54JzXtSX&ust=1707291705400000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCdpq2bloQDFQAAAAAdAAAAABAE)">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wajeeha02&label=Profile%20views&color=0e75b6&style=flat" alt="wajeeha02" /> </p>
 
